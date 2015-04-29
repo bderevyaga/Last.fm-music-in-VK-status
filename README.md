@@ -12,30 +12,30 @@ string lastFm = GET("http://ws.audioscrobbler.com/2.0/?method=user.getrecenttrac
 
 ```xml
 <lfm status="ok">
-<recenttracks user="DonetSSS" page="1" perPage="10" totalPages="396" total="3951">
-<track nowplaying="true">
-<artist mbid="">Sun King</artist>
-<name>Rory</name>
-<streamable>0</streamable>
-<mbid/>
-<album mbid=""/>
-<url>http://www.last.fm/music/Sun+King/_/Rory</url>
-<image size="small"/>
-<image size="medium"/>
-<image size="large"/>
-<image size="extralarge"/>
-</track>
-<track>...</track>
-<track>...</track>
-<track>...</track>
-<track>...</track>
-<track>...</track>
-<track>...</track>
-<track>...</track>
-<track>...</track>
-<track>...</track>
-<track>...</track>
-</recenttracks>
+  <recenttracks user="DonetSSS" page="1" perPage="10" totalPages="396" total="3951">
+    <track nowplaying="true">
+      <artist mbid="">Sun King</artist>
+      <name>Rory</name>
+      <streamable>0</streamable>
+      <mbid/>
+      <album mbid=""/>
+      <url>http://www.last.fm/music/Sun+King/_/Rory</url>
+      <image size="small"/>
+      <image size="medium"/>
+      <image size="large"/>
+      <image size="extralarge"/>
+    </track>
+    <track>...</track>
+    <track>...</track>
+    <track>...</track>
+    <track>...</track>
+    <track>...</track>
+    <track>...</track>
+    <track>...</track>
+    <track>...</track>
+    <track>...</track>
+    <track>...</track>
+  </recenttracks>
 </lfm>
 ```
 
