@@ -39,7 +39,7 @@ string lastFm = GET("http://ws.audioscrobbler.com/2.0/?method=user.getrecenttrac
 </lfm>
 ```
 
-І з даного коду ми беремо дані про артиста і пісню
+З даного коду ми беремо дані про артиста і пісню
 
 ```xml
 <artist mbid="">Sun King</artist>
