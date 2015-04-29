@@ -1,0 +1,11 @@
+C:\Users\DoNet\Desktop\Vk\Status\Status\bin\Debug\Status.exe.config
+C:\Users\DoNet\Desktop\Vk\Status\Status\bin\Debug\Status.exe
+C:\Users\DoNet\Desktop\Vk\Status\Status\bin\Debug\Status.pdb
+C:\Users\DoNet\Desktop\Vk\Status\Status\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DoNet\Desktop\Vk\Status\Status\obj\x86\Debug\Status.Form1.resources
+C:\Users\DoNet\Desktop\Vk\Status\Status\obj\x86\Debug\Status.Form2.resources
+C:\Users\DoNet\Desktop\Vk\Status\Status\obj\x86\Debug\Status.Properties.Resources.resources
+C:\Users\DoNet\Desktop\Vk\Status\Status\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DoNet\Desktop\Vk\Status\Status\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DoNet\Desktop\Vk\Status\Status\obj\x86\Debug\Status.exe
+C:\Users\DoNet\Desktop\Vk\Status\Status\obj\x86\Debug\Status.pdb
